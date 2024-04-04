@@ -12,12 +12,12 @@ $ npm install
 
 Run Program
 ```sh
-$ npm run start // or node index.js to start server
+$ npm run start
 ```
 
 ## Testing
 
 Testing
 ```sh
-$ npm run test //start server test to check Github service
+$ npm run test 
 ```
