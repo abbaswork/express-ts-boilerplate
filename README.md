@@ -1,4 +1,4 @@
-# Arctic Shores Coding Assignment
+# Node with Express and Typescript
 
 This is a simple boilerplate for running express on Node with typescript and jest for some simple testing.
 Handy for practicing JS and Node, and for running assesments
